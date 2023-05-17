@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "hackathon",
+			"path": "."
+		},
+		{
+			"name": "oriDomi",
+			"path": "../oriDomi"
+		}
+	],
+	"settings": {}
+}

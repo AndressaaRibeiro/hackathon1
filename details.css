@@ -1,0 +1,105 @@
+body{
+    width: 100vw;
+    color: white !important;
+}
+h2, h3{
+    color: white !important;
+}
+.center{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.bloc{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.contact{
+    text-align: center;
+    margin-top: 15px;
+}
+
+
+.ks{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+@font-face {
+    font-family: 'freight';
+    src: url(/fonts/freight-disp-book_KpcYz.zip);
+   }
+
+@font-face {
+    font-family: 'montserrat';
+    src: url(/fonts/Montserrat.zip);
+   }
+
+@font-face {
+    font-family: 'aktiv';
+    src: url(/fonts/Aktiv.Grotesk.zip);
+   }
+
+.freight{
+font-family:freight ;
+}
+
+.montserrat{
+    font-family:montserrat ;
+    }
+
+.aktiv{
+    font-family:aktiv ;
+    text-align: justify;
+    padding: 0 15px;
+    }
+
+.sand, .card-body{
+    background-color: #C7864F;
+}
+
+.sahara {
+    position: absolute;
+    top: 12%;
+    left: 80%;
+    transform: translate(-55%, -50%);
+    font-size: 1rem;
+    color: white;
+    width: 90%;
+  }
+
+.titre {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2rem;
+    color: white;
+    font-weight: 800;
+    width: 90%; 
+}
+p{
+    color: white;
+}
+
+.btn{
+    border: 1px solid white !important;
+    border-radius: 5px !important;
+    color: white !important;
+}
+footer{
+    height: 2px;
+    font-size: 12px;
+}
+
+.form-label{
+    color: white !important;
+}
+footer p {
+    color: black !important;
+}
+
+

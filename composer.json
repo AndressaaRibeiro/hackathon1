@@ -1,0 +1,11 @@
+{
+    "name": "thuyan/hackaton",
+    "autoload": {
+        "psr-4": {
+            "Thuyan\\Hackaton\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/http-client": "*"
+    }
+}
